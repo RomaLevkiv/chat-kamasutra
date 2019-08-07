@@ -1,0 +1,8 @@
+.nav{
+    background-color: rgba(153, 0, 255, 0.527);
+    grid-area: n;
+}
+.a{
+    display: block;
+    color:white;
+}
